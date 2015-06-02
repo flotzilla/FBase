@@ -1,0 +1,9 @@
+John smith	055535689454	mira,42
+Bespaliy Nikolay	0554798663	Bereslavska str, 12
+Igorr	055784563	Kiev, vereshtik, 22
+Maxim Petrov	0556978455	Spain
+#ololo, comment
+wer	26895	Berislav
+Elvis	5656565	USA
+Andrey Jazz	032356545	Jazz club
+qw	123132	adasdas
